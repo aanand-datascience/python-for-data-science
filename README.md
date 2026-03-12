@@ -1,33 +1,54 @@
-# 🐍 Python All Libraries Notes
+# Python All Libraries Notes
 
-This repository contains my structured learning notes and practice code for major Python libraries used in Data Science and Data Analysis.
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-orange)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-red)
 
-It includes theory explanations, examples, and hands-on practice notebooks to strengthen my understanding of Python and its powerful ecosystem.
+## Project Overview
+
+This repository contains structured notes and practice notebooks for important Python libraries used in Data Science and Data Analysis.
+
+The goal of this repository is to build a strong foundation in Python libraries commonly used in real-world data science projects.
 
 ---
 
-## 📚 Libraries Covered
+## Libraries Covered
 
-- Python Basics
 - NumPy
 - Pandas
 - Matplotlib
-- Seaborn
-- Exploratory Data Analysis (EDA)
-- Feature Engineering
-- Machine Learning Basics
+
+Each notebook contains explanations, examples, and practical code implementations.
 
 ---
 
-## 🎯 Purpose of This Repository
+## Repository Structure
 
-✔ Organize my learning in a structured way  
-✔ Practice Python data analysis libraries  
-✔ Build a strong Data Science foundation  
-✔ Use as a revision guide  
-✔ Showcase my learning journey on GitHub  
+NumPy_basic_info.ipynb → Introduction to NumPy  
+
+NumPy_phase-1.ipynb → NumPy basics and arrays  
+
+NumPy_phase-2.ipynb → Indexing and array operations  
+
+NumPy_phase-3.ipynb → Mathematical operations  
+
+NumPy_phase-4.ipynb → Advanced NumPy concepts  
+
+Pandas.ipynb → Data analysis using Pandas  
+
+Matplotlib.ipynb → Data visualization using Matplotlib  
 
 ---
 
-## 📂 Repository Structure
+## Purpose
 
+- Learn Python libraries used in Data Science  
+- Practice important concepts  
+- Build strong fundamentals for Machine Learning and Data Analysis  
+
+---
+
+## Author
+
+Aanand Kumar
